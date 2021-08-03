@@ -1,0 +1,13 @@
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\bin\Debug\netcoreapp3.1\URI_1002.exe
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\bin\Debug\netcoreapp3.1\URI_1002.deps.json
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\bin\Debug\netcoreapp3.1\URI_1002.runtimeconfig.json
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\bin\Debug\netcoreapp3.1\URI_1002.runtimeconfig.dev.json
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\bin\Debug\netcoreapp3.1\URI_1002.dll
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\bin\Debug\netcoreapp3.1\URI_1002.pdb
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\obj\Debug\netcoreapp3.1\URI_1002.csprojAssemblyReference.cache
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\obj\Debug\netcoreapp3.1\URI_1002.AssemblyInfoInputs.cache
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\obj\Debug\netcoreapp3.1\URI_1002.AssemblyInfo.cs
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\obj\Debug\netcoreapp3.1\URI_1002.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\obj\Debug\netcoreapp3.1\URI_1002.dll
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\obj\Debug\netcoreapp3.1\URI_1002.pdb
+C:\Users\Diego\Projects\Desafios_URI\URI_1002\URI_1002\obj\Debug\netcoreapp3.1\URI_1002.genruntimeconfig.cache

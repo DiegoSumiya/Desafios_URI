@@ -1,0 +1,12 @@
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\bin\Debug\netcoreapp3.1\URI_1004.exe
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\bin\Debug\netcoreapp3.1\URI_1004.deps.json
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\bin\Debug\netcoreapp3.1\URI_1004.runtimeconfig.json
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\bin\Debug\netcoreapp3.1\URI_1004.runtimeconfig.dev.json
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\bin\Debug\netcoreapp3.1\URI_1004.dll
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\bin\Debug\netcoreapp3.1\URI_1004.pdb
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\obj\Debug\netcoreapp3.1\URI_1004.AssemblyInfoInputs.cache
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\obj\Debug\netcoreapp3.1\URI_1004.AssemblyInfo.cs
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\obj\Debug\netcoreapp3.1\URI_1004.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\obj\Debug\netcoreapp3.1\URI_1004.dll
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\obj\Debug\netcoreapp3.1\URI_1004.pdb
+C:\Users\Diego\Projects\Desafios_URI\URI_1004\URI_1004\obj\Debug\netcoreapp3.1\URI_1004.genruntimeconfig.cache
